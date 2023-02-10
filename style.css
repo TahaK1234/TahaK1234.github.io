@@ -1,0 +1,292 @@
+span.other{ 
+    margin: 0px;
+    padding: 10px;
+    width: 9vw;
+    text-align: center;
+    
+  }
+  span.current{
+    color: purple;
+    margin: 0px;
+    padding: 10px;
+    width: 9vw;
+    text-align: center;
+    
+  }
+  div.menu{
+    display: flex;
+    margin: 0px;
+    padding: 0px;
+    justify-content: center;
+    border-top: 2px solid purple;
+    border-bottom: 1px  solid #E0DFDF;
+  
+    
+   
+  }
+  
+  p.nav_bar{
+    margin-block-start: 0em;
+    margin-block-end: 0em;
+    
+  }
+  
+  a.nav{
+    text-decoration: 0;
+    color: grey;
+    
+  }
+  
+  /* About file*/
+  
+  img{
+    border-radius: 50%;
+    display: flex; 
+    justify-content: center;
+    
+  }
+  
+  div.image {
+          display: flex;
+          flex-direction: column;
+          text-align: center;
+          padding-bottom: 350px;
+          padding-top: 10px;
+          padding-right: 20px;
+    
+  }
+  
+  
+  span.imageT {
+      font-size: 10px;
+      font-family: "Times New Roman",     Times, serif;
+  
+  
+  }
+  
+  div.container{
+          display: flex;
+          align-items: center;
+          flex-direction: row; 
+            border-bottom: 1px  solid #E0DFDF;
+  
+          
+  
+          
+  }
+  div.L{
+          display: flex;
+          flex-direction: column;
+          border-left: 1px  solid #E0DFDF;
+          padding-bottom: 600px;
+          padding-left: 20px;
+          width: 700px;
+    
+          
+  
+          
+  
+    
+        
+  }
+  
+  a.email{
+      text-decoration: 0;
+      color: purple;
+  
+  }
+  
+  
+  
+  span.end{ 
+      display: flex;
+      align-items: center;
+      text-align: center;
+      justify-content: center;
+      
+  }
+    
+  progress.bar{
+    height:30px;
+    width: 500px;
+  }
+  
+  
+  
+  
+  div.right{
+      text-align: right;  
+      
+        
+  }
+  div.left{
+        height: 10px;
+        margin: 0px;
+         font-size: 20px;
+  
+  }
+  
+  div.subleft{
+    height: 0;
+    margin: 0px;
+  
+  }
+  
+  div.subright{
+        text-align: right;  
+        
+  
+  }
+  
+  div.list{
+         font-size: 20px;
+    }
+  
+  
+  
+  
+  
+  
+  /* */
+  
+  @media only screen and (max-width: 1000px) {
+    
+    span.other{ 
+    margin: 0px;
+    padding: 10px;
+    width: 9vw;
+    
+   
+    
+    text-align: center;
+    
+  }
+  span.current{
+    color: purple;
+    margin: 0px;
+    padding: 10px;
+    width: 9vw;
+    
+    text-align: center;
+    
+  }
+  div.menu{
+    display: flex;
+    margin: 0px;
+    padding: 0px;
+    justify-content: center;
+    border-top: 2px solid purple;
+    border-bottom: 1px  solid #E0DFDF;
+  
+    
+   
+  }
+  
+  p.nav_bar{
+    margin-block-start: 0em;
+    margin-block-end: 0em;
+    
+  }
+  
+  a.nav{
+    text-decoration: 0;
+    color: grey;
+    
+  }
+  
+  /* About file*/
+  
+  img{
+    border-radius: 50%;
+    display: flex; 
+    justify-content: center;
+    
+  }
+  
+  div.image {
+          display: flex;
+          flex-direction: column;
+          text-align: center;
+          padding: 0px;
+  }
+  
+  
+  span.imageT {
+      font-size: 10px;
+      font-family: "Times New Roman",     Times, serif;
+  
+  
+  }
+  
+  div.container{
+          display: flex;
+          align-items: center;
+          flex-direction: column;   
+          border-bottom: 1px  solid #E0DFDF;
+          padding-bottom: 50px;
+  
+  }
+  div.L{
+          display: flex;
+          flex-direction: column;
+          
+          border-left: 1px  solid #0000;
+          border-top: 1px  solid #E0DFDF;
+          
+          padding: 44px;
+  
+  
+        
+  }
+  
+  a.email{
+      text-decoration: 0;
+      color: purple;
+  
+  }
+  
+  
+  
+  span.end{ 
+      display: flex;
+      align-items: center;
+      text-align: center;
+      justify-content: center;
+      
+  }
+   
+    progress.bar{
+    height:26px;
+    width: 600px;
+  }
+  
+   div.right{
+      text-align: right;  
+      
+        
+  }
+  div.left{
+        height: 10px;
+        margin: 0px;
+        font-size: 20px;
+  
+  }
+  
+  div.subleft{
+    height: 0;
+    margin: 0px;
+  
+  }
+  
+  div.subright{
+        text-align: right;  
+  
+  }
+  
+    div.list{
+        font-size: 20px;
+    }
+    
+    
+  }
+  
